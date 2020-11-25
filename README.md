@@ -7,4 +7,6 @@ Potential malicious concerns if someone is able to grab ahold of your Request He
 
 Just an edit from my discord RPG bot.
 
+One-way communication as of now.
+
 ![One-Way communication as of now](https://i.imgur.com/5hr4hWW.png)
