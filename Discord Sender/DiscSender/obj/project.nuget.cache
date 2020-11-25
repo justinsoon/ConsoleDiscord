@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "McMws2k9uuVCUm+aBohuRrRgLSdICixmZdWzYcx5j+EGuKL7DPY6L44SKhV4KNDwn0qC+I66m9/gpAvjIayLbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Justin\\Downloads\\Discord Sender\\DiscSender\\DiscSender.CSPROJ",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\objectdumper.net\\2.5.20155.1\\objectdumper.net.2.5.20155.1.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512",
+    "C:\\Users\\Justin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
